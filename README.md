@@ -3,11 +3,14 @@
 # Trabalho Prático - Semana-01
 
 ## Informações Gerais
-Nome: 
-Matricula: 
+Nome: Arthur Carvalho Côrte
+Matricula: 890850
 
 ## Tela de inspeção com navegador
+
+![Screenshot_2](https://github.com/user-attachments/assets/fdd51d7f-e9ef-4ba5-8fca-0be51a49e3ed)
 
 
 ## Tela de projeto no Replit
 
+![Screenshot_1](https://github.com/user-attachments/assets/936eb036-3dca-44cd-8829-4d6f3b17e41f)
